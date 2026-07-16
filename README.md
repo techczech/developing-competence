@@ -1,3 +1,12 @@
+---
+name: "Developing Competence"
+description: "Connects skill assessment, progress visualisation and personalised development planning in one learning experience."
+categories: [content-distribution, web-app, built-by-ai, powered-by-ai]
+updated: 2026-07-16
+deployments:
+  Appsite:
+    "Developing Competence": https://developingcompetence.edutools.fyi/
+---
 # Developing Competence: From Mental Maps to Fluent Performance
 
 An interactive, AI-powered competency development application designed to help users assess skills, visualize progress, and generate personalized professional development plans based on the "Developing Competence" pedagogy.
