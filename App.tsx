@@ -1,3 +1,4 @@
+import { CiteThisPage } from './citation/CiteThisPage';
 import React, { useState } from 'react';
 import { Navigation } from './components/Navigation';
 import { TheoryViewer } from './components/TheoryViewer';
@@ -87,6 +88,7 @@ export default function App() {
                 Competency Framework based on ACTFL and CEFR. Powered by Google Gemini.
             </p>
         </div>
+      <CiteThisPage />
       </footer>
     </div>
   );
